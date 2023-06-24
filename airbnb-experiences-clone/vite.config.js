@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Airbnb-experiences-clone"
+  base: "/Airbnb-experiences-clone",
   plugins: [react()],
 
 })
